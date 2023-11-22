@@ -4,7 +4,7 @@ function Navbar(){
 
   return (
 
-    <nav className="navbar navbar-expand-lg bg-dark">
+    <nav className="navbar navbar-expand-lg-md-sm bg-dark">
     <div className="container">
       <a className="navbar-brand text-light" href="#">Start Boostrap</a>
       <button className="navbar-toggler text-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
